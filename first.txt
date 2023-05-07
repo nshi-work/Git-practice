@@ -1,2 +1,7 @@
+reference
+* https://www.udemy.com/course/intro_git/learn/lecture/6449718
+* https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bf
+
+
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
